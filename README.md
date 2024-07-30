@@ -1,7 +1,7 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br />
-My name is Eliz Habiboullah and I'm a software engineer (Machine learning).
+My name is Eliz Habiboullah and I'm a software engineer (Machine learning)
 
 You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Email</a>
 
