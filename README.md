@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**ELIZHABIBOULLAH/ELIZHABIBOULLAH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+My name is Eliz Habiboullah and I'm a software engineer (Machine learning).
 
-Here are some ideas to get you started:
+You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Email</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
