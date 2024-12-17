@@ -35,8 +35,6 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 ![Photoshop](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
   <img width="12" />
 
