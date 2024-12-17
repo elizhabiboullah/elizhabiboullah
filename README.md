@@ -27,6 +27,7 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white)](#)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![1]([https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
   <img width="12" />
 
