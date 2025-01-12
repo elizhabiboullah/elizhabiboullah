@@ -7,8 +7,7 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 
 ### 🛠 &nbsp;Tech Stack
 
-<img alt="Python" src="https://img.shields.io/badge/-Python-40bcfc?style=flat-square&logo=python&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-40bcfc?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-40bcfc?style=flat-square&logo=python&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-40bcfc?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-40bcfc?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Expo" src="https://img.shields.io/badge/-Expo-40bcfc?style=flat-square&logo=expo&logoColor=white" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-40bcfc?style=flat-square&logo=node.js&logoColor=white" />
