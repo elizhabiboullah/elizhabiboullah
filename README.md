@@ -16,7 +16,6 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -24,7 +23,6 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 <img alt="Scala" src="https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white" />
 <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img alt="Microsoft Access" src="https://img.shields.io/badge/-Microsoft%20Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital%20Ocean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
@@ -37,6 +35,25 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img alt="GitLab CI" src="https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+<img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+
+<img alt="React Native Paper" src="https://img.shields.io/badge/-React%20Native%20Paper-673AB7?style=flat-square&logo=react&logoColor=white" />
+<img alt="React Navigation" src="https://img.shields.io/badge/-React%20Navigation-6B52AE?style=flat-square&logo=react&logoColor=white" />
+<img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img alt="AWS EC2" src="https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
+<img alt="AWS S3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+<img alt="AWS RDS" src="https://img.shields.io/badge/-AWS%20RDS-527FFF?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="AWS DynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+<img alt="AWS ECS" src="https://img.shields.io/badge/-AWS%20ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white" />
+<img alt="AWS EKS" src="https://img.shields.io/badge/-AWS%20EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" />
+<img alt="AWS CloudFront" src="https://img.shields.io/badge/-AWS%20CloudFront-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+<img alt="AWS API Gateway" src="https://img.shields.io/badge/-AWS%20API%20Gateway-232F3E?style=flat-square&logo=amazon-api-gateway&logoColor=white" />
+<img alt="AWS Route53" src="https://img.shields.io/badge/-AWS%20Route53-232F3E?style=flat-square&logo=amazon-route53&logoColor=white" />
+
 
 <!-- 🔭 I’m currently working on ... -->
 <!-- 🌱 I’m currently learning ... -->
