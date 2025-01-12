@@ -45,8 +45,6 @@ You can find me here <a href="mailto:eliz4ads@gmail.com" class="footer-link">Ema
 <img alt="React Navigation" src="https://img.shields.io/badge/-React%20Navigation-6B52AE?style=flat-square&logo=react&logoColor=white" />
 <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" />
 <img alt="AWS S3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-<img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 
 
 
